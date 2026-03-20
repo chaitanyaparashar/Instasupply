@@ -75,6 +75,7 @@ yarn-error.log
 
 # Environment variables
 .env
+src/config/generated-env.json
 
 # Firebase config files (contain API keys)
 google-services.json
